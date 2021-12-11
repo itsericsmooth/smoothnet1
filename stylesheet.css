@@ -1,0 +1,24 @@
+body {
+background-color: black;
+color: black;
+font-family: courier;
+text-align: center;
+background-image: url('pics/texture.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+
+p {
+
+}
+
+hr {
+color: black;
+height: 10px;
+}
+
+.deer {
+border-radius: 50%;
+border: solid white 10px;
+} 
