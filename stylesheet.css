@@ -11,6 +11,7 @@ background-image: url('pics/texture\ 1.png');
 
 p {
     font-size: 1.6em;
+    background-color rgba(255,255,255,0.3);
 }
 
 hr {
