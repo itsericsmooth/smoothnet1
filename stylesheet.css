@@ -1,16 +1,16 @@
 body {
-background-color: black;
+background-color: white;
 color: black;
 font-family: courier;
 text-align: center;
-background-image: url('pics/texture.jpeg');
+background-image: url('pics/texture\ 1.png');
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
 }
 
 p {
-
+    font-size: 1.6em;
 }
 
 hr {
